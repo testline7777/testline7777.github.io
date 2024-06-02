@@ -1,0 +1,23 @@
+{
+  "greeting": "姐姐早上中午晚上好呀！",
+  "name": "在这里祝你！生日快乐！",
+  "greetingText": "很幸运能在茫茫人海中结识远方的你（确实有够远的）",
+  "wishText": "朱颜长似，头上花枝，岁岁年年。愿君青丝不老，岁岁皆欢。",
+  "imagePath": "img/lydia2.png",
+  "text1": "今天是你的生日呢!!! :D",
+  "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！发送很多很多的快乐……",
+  "sendButtonLabel": "发送",
+  "text2": "想给你一些惊喜，但我们离得好远呀",
+  "text3": "我认真的想了很久",
+  "text4": "我突然，想到可以做一些",
+  "text4Adjective": "特别的东西",
+  "text5Entry": "因为，",
+  "text5Content": "姐姐对我来说就是非常特别的啦",
+  "smiley": ":)",
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "生日快乐!",
+  "outroText": "今年没有烟花看了，但希望你喜欢这个小小的惊喜!",
+  "replayText": "Close your eyes and make a wish！如果没看清，还可以点这里再看一次哦!",
+  "outroSmiley": ":)"
+}
